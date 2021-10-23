@@ -1,0 +1,26 @@
+[
+    {
+        "id": "611e6be01d465",
+        "title": "1st Post",
+        "description": "This is about the 1st post...",
+        "author": "Xuimin27",
+        "date": 1629372648,
+        "likes": []
+    },
+    {
+        "id": "611e6c1ea123d",
+        "title": "2nd Post",
+        "description": "This is about the 2nd post..",
+        "author": "Person22",
+        "date": 1629372710,
+        "likes": []
+    },
+    {
+        "id": "611e6c83c2d41",
+        "title": "3rd Post",
+        "description": "This is about the 3rd post....",
+        "author": "Person33",
+        "date": 1629372811,
+        "likes": []
+    }
+]

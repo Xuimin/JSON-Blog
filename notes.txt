@@ -1,0 +1,18 @@
+- Register (DONE)
+- Login (DONE)
+- Logout (DONE)
+
+- Add a post (DONE)
+- Delete a post (DONE)
+- Edit a post (DONE)
+- View all posts (DONE)
+- View Single post (DONE)
+
+-Comments (DONE)
+-Likes
+
+Adding, deleting and editing can only be done if the user is logged and if the user own that post.
+
+../ one folder up
+/ root directory
+./ The current directory. However not adding anything to the front should mean the same.
